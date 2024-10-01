@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mnnandev
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning front-end
-- 💞️ I’m looking to collaborate on fron-end technology
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning mern-stack
+- 💞️ I’m looking to collaborate on mern-stack-end technology
+- 📫 How to reach me: This is my gmail mnnanhavibhutta@gmail.com
+- 😄 Pronouns: Mnnan bhutta
 - ⚡ Fun fact: ...
 
 <!---
